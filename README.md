@@ -15,7 +15,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 <!--
   <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
+  Start this step by acknowledging the previous step..
   Define terms and link to docs.github.com.
 -->
 
@@ -23,7 +23,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 _Great job uploading test reports! :partying_face:_
 
-Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
+Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met..
 
 Protected branches ensure that collaborators on your repository cannot make irrevocable changes to branches. Enabling protected branches also allows you to enable other optional checks and requirements, like required status checks and required reviews.
 
